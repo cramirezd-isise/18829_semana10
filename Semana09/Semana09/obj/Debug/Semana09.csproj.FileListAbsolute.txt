@@ -1,0 +1,10 @@
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\bin\Debug\Semana09.exe.config
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\bin\Debug\Semana09.exe
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\bin\Debug\Semana09.pdb
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.Form1.resources
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.FrmAlumnos.resources
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.Properties.Resources.resources
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.exe
+C:\Users\Carlos\Documents\PC\CSTI\DATA\CRD2\personal\UPN\2022-I\SIST.1102A - FUNDAMENTOS DE PROGRAMACION\semana09\Grupo03\Semana09\Semana09\obj\Debug\Semana09.pdb
